@@ -1,0 +1,26 @@
+#div-anime{
+  height: 100%;
+  background-color: #fff !important;
+  box-shadow:inherit !important;
+  color:#000 !important;
+
+}
+
+
+#sidebarMenu {
+  color:#000 !important;
+}
+
+
+font {
+  vertical-align: inherit;
+}
+
+.nav-link {
+  font-weight: 500;
+  color: #333;
+}
+
+
+
+

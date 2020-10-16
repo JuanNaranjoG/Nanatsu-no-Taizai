@@ -1,0 +1,15 @@
+.backgroud{
+    background-image: url("../img/404.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+}
+.r{
+    margin-right: inherit;
+}
+
+# 404{
+    font-size: 200px !important;
+}
